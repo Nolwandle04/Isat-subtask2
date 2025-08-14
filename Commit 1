@@ -1,0 +1,4 @@
+Initialize basic conversion functions: decimal-binary, binary-decimal
+Added decimalToBinary(int) using std::bitset.
+Added binaryToDecimal(const string&) with custom logic.
+Ensured 16-bit binary formatting for consistency.
