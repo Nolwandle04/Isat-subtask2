@@ -1,0 +1,4 @@
+Final polish: uppercase hex output, user prompts, and clean exit message
+Used uppercase manipulator for hexadecimal output.
+Improved user prompts for clarity.
+Added clean exit message in case 6.
