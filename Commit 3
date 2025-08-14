@@ -1,0 +1,3 @@
+Add demo function to generate random number and display binary equivalent
+Added demoConversion() using rand() and time(0) for randomness.
+Displays random number and its binary form using existing conversion function.
