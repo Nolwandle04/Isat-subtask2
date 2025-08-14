@@ -1,0 +1,4 @@
+Implement interactive console menu to allow user conversions
+Added displayMenu() function to show options.
+Main loop with switch-case to handle user input for all conversions and demo.
+Uses cin.ignore() to handle buffer cleanup.
